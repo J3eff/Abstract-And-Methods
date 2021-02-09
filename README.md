@@ -1,8 +1,7 @@
 # Abstract-Classes-And-Methods
-Exercicio aplicado no curso de POO, aplicado pelo Profº Nelio Alves.
+Exercicio aplicado no curso de POO pelo Profº Nelio Alves.
 
 Segue o que foi solicitado para construir nesta atividade:
-
 
 Exercicio proposto: 
 ![exercicioProposto](https://user-images.githubusercontent.com/50780211/107298532-5f15e680-6a54-11eb-9032-d3a092ef36f9.jpg)
